@@ -1,4 +1,4 @@
-# 👋 Hello, I'm KwanyiSe
+# 👋 Hello, I'm Kwanyi Sedrick Bodeh
 
 **Programmer** | **Student Software Developer** | **⚽ Soccer Player**  
 *Building full-stack applications, exploring AI with Python, and bringing teamwork from the pitch to the codebase.*
